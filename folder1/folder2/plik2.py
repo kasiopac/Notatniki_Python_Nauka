@@ -1,0 +1,1 @@
+print('zaimportowano plik2 do plik1')
